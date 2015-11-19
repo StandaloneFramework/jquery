@@ -1,5 +1,5 @@
 {
-    "name" : "standaloneFramework/jquery",
+    "name" : "standaloneframework/jquery",
     "description" : "Include jquery to SFrame framework",
     "version" : "1.0.0",
     "require": {

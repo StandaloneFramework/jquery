@@ -1,5 +1,5 @@
 <?php
-namespace standaloneFramework\jquery;
+namespace standaloneframework\jquery;
 
 use app\application\classes\base\BaseBlock;
 
