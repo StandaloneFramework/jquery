@@ -1,5 +1,5 @@
 {
-    "name" : "SFrame JQuery block",
+    "name" : "block-jquery",
     "description" : "Include jquery to SFrame framework",
     "version" : "1.0.0",
     "require": {
