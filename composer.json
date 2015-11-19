@@ -1,0 +1,9 @@
+{
+    "name" : "SFrame JQuery block",
+    "description" : "Include jquery to SFrame framework",
+    "version" : "1.0.0",
+    "require": {
+        "components/jquery": "^2.1",
+        "components/jqueryui": "^1.11"
+    }
+}
