@@ -11,7 +11,7 @@ use app\application\classes\base\BaseBlock;
  *
  * @package standaloneFramework\jquery
  * @author Artem Kaplenko <art.kaplenko@gmail.com>
- * @version 1.0.0
+ * @version 1.0.1
  */
 class Jquery extends BaseBlock{
     /**
@@ -24,6 +24,6 @@ class Jquery extends BaseBlock{
      * @var array
      */
     public static $jsAsset = [
-        'jquery.min.js'
+        '../../components/jquery/jquery.min.js'
     ];
 }
